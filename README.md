@@ -24,13 +24,13 @@ To assess whether public policies (e.g. Madrid Central, Barcelona’s Low-Emissi
 - Accidents: mixed results, no clear trend reduction after policies
 
 ### NO₂ evolution in Barcelona (2014–2024)
-![NO2 Barcelona](figures/no2_bcn_2014_2024.png)
+![NO2 Barcelona](figures/no2_bcn_2014-24.png)
 
 ### Traffic accidents evolution in Barcelona
-![Accidents Barcelona](figures/accidents_bcn_2014_2024.png)
+![Accidents Barcelona](figures/accidents_bcn_2014-24.png)
 
 ### Traffic accidents evolution in Madrid
-![Accidents Madrid](figures/accidents_mad_2014_2024.png)
+![Accidents Madrid](figures/accidents_mad_2014-24.png)
 
 ## Repository Structure
 - `/code` → Python scripts
