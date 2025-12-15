@@ -21,7 +21,16 @@ To assess whether public policies (e.g. Madrid Central, Barcelona’s Low-Emissi
 ## Key Results
 - Air quality: partial improvements after Madrid Central and ZBE, though results vary by area  
 - Traffic: evidence of displacement (congestion reduction in restricted areas, but increases in periphery)  
-- Accidents: mixed results, no clear trend reduction after policies  
+- Accidents: mixed results, no clear trend reduction after policies
+
+### NO₂ evolution in Barcelona (2014–2024)
+![NO2 Barcelona](figures/no2_bcn_2014_2024.png)
+
+### Traffic accidents evolution in Barcelona
+![Accidents Barcelona](figures/accidents_bcn_2014_2024.png)
+
+### Traffic accidents evolution in Madrid
+![Accidents Madrid](figures/accidents_mad_2014_2024.png)
 
 ## Repository Structure
 - `/code` → Python scripts
